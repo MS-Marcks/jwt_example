@@ -1,5 +1,9 @@
 # jwt_example
 
+# **install dependencies**
+```bash
+npm install
+```
 # **run server**
 ```bash
 npm run dev
